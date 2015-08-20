@@ -1,0 +1,39 @@
+table {
+	border: thin solid black;
+	border-spacing: 0px;
+}
+td	{
+	font-size: normal;
+	font-weight: bolder;
+	font-style: normal;
+	text-align: center;
+	margin: 0;
+	border: 1px solid black;
+	border-spacing: 0px;
+}
+caption {
+	font-size: 10px;
+	caption-side: bottom;
+	font-style: italic;
+	padding-top: 5px;
+}
+
+#aqua {color:aqua }
+#fuchsia {color: fuchsia}
+#lime {color: lime}
+#olive {color: olive }
+#red {color: red}
+#white {color: white;
+		background-color: black;
+	}
+#black {color: black}
+#gray {color: gray}
+#maroon {color: maroon}
+#orange {color: orange}
+#silver {color: silver}
+#yellow {color: yellow}
+#blue {color: blue}
+#green {color: green}
+#navy {color: navy}
+#purple {color: purple}
+#teal {color: teal}
